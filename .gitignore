@@ -1,3 +1,9 @@
 # venv
 .venv/
 
+# pycache
+__pycache__
+
+# coverage
+.coverage
+htmlcov
