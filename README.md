@@ -12,6 +12,6 @@ venv setup is below commands.
 
 ## pip Requirements
 
-pip requirements is below.
+pip requirements install command is below.
 
-`./requirements.txt`
+`pip install -r ./requirements.txt`
